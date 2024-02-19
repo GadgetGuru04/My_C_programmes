@@ -14,6 +14,5 @@ int main() {
 
     printf("Average amount spent per year at Big Bazar: $%.2lf\n", anlAmount);
 
-    printf("Update");
     return 0;
 }
